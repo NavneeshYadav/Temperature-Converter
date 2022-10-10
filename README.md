@@ -1,3 +1,3 @@
 # Temperature-Converter
-It's convert temperature from degree to fahrenheit  and vice versa.
+It's a temperature converter.
 Link :-https://navneeshyadav.github.io/Temperature-Converter/
